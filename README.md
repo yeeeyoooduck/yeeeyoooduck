@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 # Hi i'm Alexander 👋
 HTML/CSS Developer with an experience of 2 years, during this time I have succeeded in developing websites. In addition, I am engaged in design.
 
+📫 How to reach me: yeeeyoooduck@gmail.com
+
 ## 🏸 Key points
 * deployed the Microsoft Teams system at "ANO PO MOKIT" college.
 * designer and developer of the <code>[iqnix](https://iqnix.tech/)</code> website.
@@ -23,7 +25,5 @@ HTML/CSS Developer with an experience of 2 years, during this time I have succee
 ## 🛠 Technical Stack
 * С++/Python languages.
 * HTML/PUG, CSS/SASS markup.
-
-📫 How to reach me: yeeeyoooduck@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=yeeeyoooduck)
