@@ -18,4 +18,4 @@ HTML/CSS Developer with an experience of 2 years, during this time I have succee
 
 ## Key points
 * deployed the Microsoft Teams system at "ANO PO MOKIT" college.
-* designer and developer of the <code>[iqnix](iqnix.tech)</code> website
+* designer and developer of the <code>[iqnix](https://iqnix.tech/)</code> website
