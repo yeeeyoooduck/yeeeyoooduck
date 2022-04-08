@@ -23,3 +23,5 @@ HTML/CSS Developer with an experience of 2 years, during this time I have succee
 ## 🛠 Technical Stack
 * С++/Python languages.
 * HTML/PUG, CSS/SASS markup.
+
+![](https://komarev.com/ghpvc/?username=yeeeyoooduck)
