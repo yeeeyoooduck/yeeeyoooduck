@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # Hi i'm Alexander 👋
-HTML/CSS Developer with an experience of 1 year. 
+HTML/CSS Developer with an experience of 2 years, during this time I have succeeded in developing websites. In addition, I am engaged in design.
