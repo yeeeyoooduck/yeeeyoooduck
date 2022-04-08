@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 HTML/CSS Developer with an experience of 2 years, during this time I have succeeded in developing websites. In addition, I am engaged in design.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeeyoooduck)](https://github.com/yeeeyoooduck/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeeeyoooduck&repo=github-readme-stats)](https://github.com/yeeeyoooduck/github-readme-stats)
