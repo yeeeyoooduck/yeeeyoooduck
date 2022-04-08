@@ -23,8 +23,9 @@ HTML/CSS Developer with an experience of 2 years, during this time I have succee
 ## 🛠 Technical Stack
 * С++/Python languages.
 * HTML/PUG, CSS/SASS markup.
-  
+
+&nbsp
+
 📫 How to reach me: yeeeyoooduck@gmail.com
 
-<br>
 ![](https://komarev.com/ghpvc/?username=yeeeyoooduck)
