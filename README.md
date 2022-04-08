@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 # Hi i'm Alexander 👋
 HTML/CSS Developer with an experience of 2 years, during this time I have succeeded in developing websites. In addition, I am engaged in design.
 
-## Key points
+## 🔧 Key points
 * deployed the Microsoft Teams system at "ANO PO MOKIT" college.
 * designer and developer of the <code>[iqnix](https://iqnix.tech/)</code> website
+
+## 🛠 Technical Stack
