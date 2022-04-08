@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 # Hi i'm Alexander 👋
 HTML/CSS Developer with an experience of 2 years, during this time I have succeeded in developing websites. In addition, I am engaged in design.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeeyoooduck)](https://github.com/yeeeyoooduck/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeyoooduck)](https://github.com/yeeeyoooduck/github-readme-stats)
+##[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeeyoooduck)](https://github.com/yeeeyoooduck/github-readme-stats)
+##[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeyoooduck)](https://github.com/yeeeyoooduck/github-readme-stats)
