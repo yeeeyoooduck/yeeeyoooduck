@@ -27,6 +27,7 @@ HTML/CSS Developer with an experience of 2 years, during this time I have succee
 * HTML/PUG, CSS/SASS markup.
 
 ## 💬 Other Social Media
-Behance: <code>[yeeeyoooduck](https://www.behance.net/alexanderpavliuk/)</code>
+Behance: <code>[alexanderpavliuk](https://www.behance.net/alexanderpavliuk/)</code>
+Dribbble: <code>[alexanderpavliuk](https://dribbble.com/alexanderpavliuk/)</code>
 
 ![](https://komarev.com/ghpvc/?username=yeeeyoooduck)
