@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Hi i'm Alexander 👋
 HTML/CSS Developer with an experience of 4 years, during this time I have succeeded in developing websites. In addition, I am engaged in design.
+
 Now I'm mainly doing backend in Python
 
 📫 How to reach me: pavliuk.alexander.a@gmail.com
