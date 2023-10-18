@@ -26,7 +26,7 @@ Now I'm mainly doing backend in Python
 * developer of two bots of the online store "OSCOMP"
 
 ## 🛠 Technical Stack
-* С++/Python languages.
+* С++/Python/JavaScript languages.
 * HTML/PUG, CSS/SASS markup.
 
 ## 💬 Other Social Media
