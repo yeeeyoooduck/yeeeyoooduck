@@ -22,7 +22,7 @@ Now I'm mainly doing backend in Python
 
 ## 🏸 Key points
 * deployed the Microsoft Teams system at "ANO PO MOKIT" college.
-* designer and developer of the <code>[iqnix](https://yeeeyoooduck.github.io/)</code> website.
+* designer and developer of the IQnix website.
 * developer of two bots of the online store "OSCOMP"
 
 ## 🛠 Technical Stack
