@@ -22,7 +22,8 @@ Now I'm mainly doing backend in Python
 
 ## 🏸 Key points
 * had deployed the Microsoft Teams system at "ANO PO MOKIT" college.
-* had designed and developed IQnix website 
+* had designed and developed website for "IQnix Tech"
+* had designed and developed website for "Команда Максима"
 * had developed two bots for online store "OSCOMP"
 
 ## 🛠 Technical Stack
