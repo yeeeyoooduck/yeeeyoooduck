@@ -22,9 +22,10 @@ Now I'm mainly doing backend in Python
 
 ## 🏸 Key points
 * deployed the Microsoft Teams system in the college "АНО ПО МОКИТ" being a Microsoft partner
-* had developed three chat-bots for online store "OSCOMP" (Telegram + Livesklad + SQL | Telegram + GoogleSheets + SQL | Avito + SQL + Ngrock + Flask + Telegram)
-* had developed chat-bot for online store "OSCOMP"
+* had developed three chat-bots for online store "OSCOMP"
   * Telegram + Livesklad + SQL
+  * Telegram + GoogleSheets + SQL
+  * Avito + SQL + Ngrock + Flask + Telegram
 * had designed and developed website for "IQnix Tech"
 * had designed and developed website for "Команда Максима"
 
