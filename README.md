@@ -26,7 +26,6 @@ Now I'm mainly doing backend in Python
   * Telegram + Livesklad + SQL
   * Telegram + GoogleSheets + SQL
   * Avito + SQL + Ngrock + Flask + Telegram
-* had developer
 * had designed and developed website for "IQnix Tech"
 * had designed and developed website for "Команда Максима"
 
