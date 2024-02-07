@@ -21,7 +21,7 @@ Now I'm mainly doing backend in Python
 📫 How to reach me: pavliuk.alexander.a@gmail.com
 
 ## 🏸 Key points
-* deployed the Microsoft Teams system in the college "АНО ПО МОКИТ" being a Microsoft partner
+* deployed the Microsoft Office 365 system in the college "АНО ПО МОКИТ" being a Microsoft partner
 * had developed three chat-bots for online store "OSCOMP"
   * Telegram + Livesklad + SQL
   * Telegram + GoogleSheets + SQL
