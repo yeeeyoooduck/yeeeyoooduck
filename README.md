@@ -20,7 +20,7 @@ A developer with 4 years of experience, during this time I have succeeded in dev
 
 ## 🏸 Key points
 * deployed the Microsoft Office 365 system in the college "АНО ПО МОКИТ" being a Microsoft partner
-* had developed three chat-bots for online store "OSCOMP"
+* had developed a large number of backend solutions and three chatbots for the OSCOMP online store:
   * Telegram + Livesklad + SQL
   * Telegram + GoogleSheets + SQL
   * Avito + SQL + Ngrock + Flask + Telegram
