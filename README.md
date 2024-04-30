@@ -22,6 +22,7 @@ I am a seasoned developer with 4 years of experience, during which I have excell
 ### Web Application Aggregator
 - Developed a web application aggregator using React and Node.js.
 - Integrated Telegram, WhatsApp, and Avito APIs.
+- Created a custom API system for handling requests.
 ### Chatbots for OSCOMP Online Store
 - Developed three chatbots for the OSCOMP online store:
   - Telegram API with Livesklad and SQL integration.
