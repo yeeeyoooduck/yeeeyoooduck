@@ -24,10 +24,9 @@ I am a seasoned developer with 4 years of experience, during which I have excell
 - Integrated Telegram, WhatsApp, and Avito APIs.
 - Created a custom API system for handling requests.
 ### Chatbots for OSCOMP Online Store
-- Developed three chatbots for the OSCOMP online store:
-  - Telegram API with Livesklad and SQL integration.
-  - Telegram API with Google Sheets and SQL integration.
-  - Avito API with SQL, Flask, and Telegram integration
+- Telegram API with Livesklad and SQL integration.
+- Telegram API with Google Sheets and SQL integration.
+- Avito API with SQL, Flask, and Telegram integration
 ### Websites
 - Designed and developed a website for "IQnix Tech"
 - Designed and developed a website for "Team Maxim"
