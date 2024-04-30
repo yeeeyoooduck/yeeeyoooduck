@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi i'm Alexander 👋
-A developer with 4 years of experience, during this time I have succeeded in developing websites and various backend solutions. Besides, I do design.
+I am a seasoned developer with 4 years of experience, during which I have excelled in creating websites, developing various backend solutions, and handling design aspects. My expertise spans across the full stack, allowing me to seamlessly integrate frontend and backend technologies to deliver robust and visually appealing web solutions.
 
 📫 How to reach me: pavliuk.alexander.a@gmail.com
 
@@ -45,6 +45,8 @@ A developer with 4 years of experience, during this time I have succeeded in dev
 - C++
 - Python
 - Java
+### Additional:
+- SEO development 
 
 ## 💬 Other Social Media
 * Behance: <code>[alexanderpavliuk](https://www.behance.net/alexanderpavliuk/)</code>
