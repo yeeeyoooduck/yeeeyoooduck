@@ -19,13 +19,13 @@ A developer with 4 years of experience, during this time I have succeeded in dev
 📫 How to reach me: pavliuk.alexander.a@gmail.com
 
 ## 🏸 Key points
-* deployed the Microsoft Office 365 system in the college "АНО ПО МОКИТ" being a Microsoft partner
-* had developed a large number of backend solutions and three chatbots for the OSCOMP online store:
-  * Telegram + Livesklad + SQL
-  * Telegram + GoogleSheets + SQL
-  * Avito + SQL + Ngrock + Flask + Telegram
-* had designed and developed website for "IQnix Tech"
-* had designed and developed website for "Команда Максима"
+- deployed the Microsoft Office 365 system in the college "АНО ПО МОКИТ" being a Microsoft partner
+- had developed a large number of backend solutions and three chatbots for the OSCOMP online store:
+  - Telegram + Livesklad + SQL
+  - Telegram + GoogleSheets + SQL
+  - Avito + SQL + Ngrock + Flask + Telegram
+- had designed and developed website for "IQnix Tech"
+- had designed and developed website for "Команда Максима"
 
 ## 🛠 Technical Stack
 ### Базы данных:
