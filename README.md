@@ -19,16 +19,19 @@ I am a seasoned developer with 4 years of experience, during which I have excell
 📫 How to reach me: pavliuk.alexander.a@gmail.com
 
 ## 🏸 Key points
-### Bots
-- had developed a large number of backend solutions and three chatbots for the OSCOMP online store:
-  - Telegram + Livesklad + SQL
-  - Telegram + GoogleSheets + SQL
-  - Avito + SQL + Ngrock + Flask + Telegram
+### Web Application Aggregator
+- Developed a web application aggregator using React and Node.js.
+- Integrated Telegram, WhatsApp, and Avito APIs.
+### Chatbots for OSCOMP Online Store
+- Developed three chatbots for the OSCOMP online store:
+  - Telegram API with Livesklad and SQL integration.
+  - Telegram API with Google Sheets and SQL integration.
+  - Avito API with SQL, Flask, and Telegram integration
 ### Websites
-- had designed and developed website for "IQnix Tech"
-- had designed and developed website for "Команда Максима"
-### Deployment
-- deployed the Microsoft Office 365 system in the college "АНО ПО МОКИТ" being a Microsoft partner
+- Designed and developed a website for "IQnix Tech"
+- Designed and developed a website for "Team Maxim"
+### Microsoft Office 365 Deployment
+- Deployed the Microsoft Office 365 system at the "ANO PO MOKIT" college as a Microsoft partner.
 
 ## 🛠 Technical Stack
 ### Databases:
