@@ -28,9 +28,20 @@ A developer with 4 years of experience, during this time I have succeeded in dev
 * had designed and developed website for "Команда Максима"
 
 ## 🛠 Technical Stack
-* С++/Python/Java
-* PHP/JavaScript
-* HTML/CSS
+### Базы данных:
+- PostgreSQL
+- MongoDB
+### Фронтенд:
+- React
+- HTML
+- CSS
+- JavaScript
+### Бэкенд:
+- Node.js
+- PHP
+- C++
+- Python
+- Java
 
 ## 💬 Other Social Media
 * Behance: <code>[alexanderpavliuk](https://www.behance.net/alexanderpavliuk/)</code>
