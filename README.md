@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 # Hi i'm Alexander 👋
 I am a seasoned developer with 4 years of experience, during which I have excelled in creating websites, developing various backend solutions, and handling design aspects. My expertise spans across the full stack, allowing me to seamlessly integrate frontend and backend technologies to deliver robust and visually appealing web solutions.
 
-📫 How to reach me: 
-- Email: pavliuk.alexander.a@gmail.com
-- Telegram: @yeeeyoooduck
+📫 How to reach me: pavliuk.alexander.a@gmail.com
 
 ## 🏸 Key points
 ### Bots
