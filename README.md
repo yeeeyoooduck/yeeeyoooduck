@@ -54,5 +54,6 @@ I am a seasoned developer with 4 years of experience, during which I have excell
 ## 💬 Other Social Media
 * Behance: <code>[alexanderpavliuk](https://www.behance.net/alexanderpavliuk/)</code>
 * Dribbble: <code>[alexanderpavliuk](https://dribbble.com/alexanderpavliuk/)</code>
+* LeetCode <code>[yeeeyoooduck](https://leetcode.com/u/yeeeyoooduck/)</code>
 
 ![](https://komarev.com/ghpvc/?username=yeeeyoooduck)
